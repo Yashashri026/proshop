@@ -1,0 +1,4 @@
+[submodule "proshop"]
+	path = proshop
+	url = https://github.com/Yashashri026/proshop.git
+	branch = main
